@@ -1,12 +1,34 @@
-# React + Vite
+# 🗂️ Trello Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um clone do **Trello** para gerenciar tarefas.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Funcionalidades
 
-## Expanding the ESLint configuration
+- Criar, e excluir tarefas.
+- Definir a priodade da Tarefa
+- Definir Estado da Tarefa
+- Definir Data para a tarefa
+- Mover a tarefa de estado.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ⚙️ Tecnologias
+
+- **Frontend:** React + Tailwind CSS  
+
+---
+
+## 🚀 Como Rodar
+
+```bash
+# Clonar o repositório
+git clone (https://github.com/Gugaa03/Trello)
+cd trello-clone
+
+# Rodar 
+npm install
+npm run dev 
+
+Abrir o local Host
