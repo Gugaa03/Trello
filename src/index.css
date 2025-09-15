@@ -1,3 +1,29 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@keyframes gradient-x {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+.animate-gradient-x {
+  animation: gradient-x 8s ease infinite;
+  background-size: 400% 400%;
+}
+
+.glow-card {
+  box-shadow: 0 0 10px rgba(255,255,255,0.1), 0 0 20px rgba(255,255,255,0.1);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.glow-card:hover {
+  box-shadow: 0 0 15px rgba(255,255,255,0.3), 0 0 30px rgba(255,255,255,0.3);
+}
+
+body {
+  background: radial-gradient(circle at top left, #1e3a8a, #3b82f6, #9333ea);
+  background-size: cover;
+  min-height: 100vh;
+}
