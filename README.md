@@ -1,4 +1,4 @@
-# 🗂️ Trello Clone
+# 🗂️ Trello 
 
 Um clone do **Trello** para gerenciar tarefas.
 
@@ -29,7 +29,7 @@ Um clone do **Trello** para gerenciar tarefas.
 ```bash
 # Clonar o repositório
 git clone (https://github.com/Gugaa03/Trello)
-cd trello-clone
+cd Trello
 
 # Rodar 
 npm install
