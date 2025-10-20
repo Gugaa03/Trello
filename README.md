@@ -20,8 +20,8 @@ Um clone do **Trello** para gerenciar tarefas.
 
 ---
  ## Espaço reservado para algumas capturas de tela das funcionalidades implementadas.
-<img width="1875" height="918" alt="image" src="https://github.com/user-attachments/assets/2d6a7843-135d-46ed-964c-2e284f569300" />
-<img width="1869" height="927" alt="image" src="https://github.com/user-attachments/assets/d651e7cc-48b2-4f5b-8cae-aa8feafa1110" />
+<img width="1615" height="957" alt="image" src="https://github.com/user-attachments/assets/f9fbf43b-1c48-4e7a-9893-7d03c74f5c26" />
+<img width="1617" height="953" alt="image" src="https://github.com/user-attachments/assets/fb0fb1e0-e4a8-4f45-8615-da71b9acf79b" />
 ---
 
 ## 🚀 Como Rodar
