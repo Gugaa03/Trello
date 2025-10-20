@@ -1,6 +1,6 @@
 # 🗂️ Trello 
 
-Um clone do **Trello** para gerenciar tarefas.
+Um clone do **Trello** com tema Arcade para gerenciar tarefas.
 
 ---
 
