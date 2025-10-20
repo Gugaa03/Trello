@@ -20,8 +20,7 @@ Um clone do **Trello** com tema Arcade para gerenciar tarefas.
 
 ---
  ## Espaço reservado para algumas capturas de tela das funcionalidades implementadas.
-<img width="1615" height="957" alt="image" src="https://github.com/user-attachments/assets/f9fbf43b-1c48-4e7a-9893-7d03c74f5c26" />
-<img width="1617" height="953" alt="image" src="https://github.com/user-attachments/assets/fb0fb1e0-e4a8-4f45-8615-da71b9acf79b" />
+<img width="1617" height="953" alt="image" src="https://github.com/user-attachments/assets/485476ed-783d-4030-b20c-9f565dfb5aad" />
 ---
 
 ## 🚀 Como Rodar
